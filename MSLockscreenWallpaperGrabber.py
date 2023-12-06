@@ -1,3 +1,5 @@
+# reiyua, rei@reiyua.lol, 2023
+
 import os
 import shutil
 
