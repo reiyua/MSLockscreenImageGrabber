@@ -1,4 +1,5 @@
 # reiyua, rei@reiyua.lol, 2023
+# This is a simple python script which copies the images from the Microsoft Lockscreen Wallpaper Directory in AppData, append them with ".jpg" and place them in a directory of the user's choosing.
 
 import os
 import shutil
